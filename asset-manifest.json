@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/robosquad/static/css/main.7248cea4.chunk.css",
+    "main.js": "/robosquad/static/js/main.084b65f7.chunk.js",
+    "main.js.map": "/robosquad/static/js/main.084b65f7.chunk.js.map",
+    "runtime-main.js": "/robosquad/static/js/runtime-main.11fe8f53.js",
+    "runtime-main.js.map": "/robosquad/static/js/runtime-main.11fe8f53.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/robosquad/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.9a8e4407.chunk.js": "/robosquad/static/js/2.9a8e4407.chunk.js",
+    "static/js/2.9a8e4407.chunk.js.map": "/robosquad/static/js/2.9a8e4407.chunk.js.map",
+    "index.html": "/robosquad/index.html",
+    "precache-manifest.284bc6d347fcd76098a1b09e0437c552.js": "/robosquad/precache-manifest.284bc6d347fcd76098a1b09e0437c552.js",
+    "service-worker.js": "/robosquad/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/robosquad/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.7248cea4.chunk.css.map": "/robosquad/static/css/main.7248cea4.chunk.css.map",
+    "static/js/2.9a8e4407.chunk.js.LICENSE.txt": "/robosquad/static/js/2.9a8e4407.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.11fe8f53.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.9a8e4407.chunk.js",
+    "static/css/main.7248cea4.chunk.css",
+    "static/js/main.084b65f7.chunk.js"
+  ]
+}
